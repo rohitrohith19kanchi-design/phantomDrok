@@ -52,14 +52,6 @@ designed around asynchronous processing and low-bandwidth usage.
 
 ---
 
-### 📚 StudyForge
-
-A study productivity platform designed to help students organize their
-academic work, manage tasks, and track their study progress.
-
-**Focus:** React • Frontend Development • UI/UX
-
----
 
 ### 🌡️ Polyhouse FitCheck
 
